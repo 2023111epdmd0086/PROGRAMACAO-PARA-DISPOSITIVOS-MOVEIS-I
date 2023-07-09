@@ -1,0 +1,11 @@
+body {
+    padding: 6rem 3rem;
+    width: auto;
+}
+
+p {
+    text-align: justify;
+    font-family: Calibri, sans-serif;
+    color: blue;
+    font-size: 1.5rem;
+}

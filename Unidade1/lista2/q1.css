@@ -1,0 +1,19 @@
+html {
+    background-image: url('https://s2.static.brasilescola.uol.com.br/be/2021/12/bandeira-do-uruguai.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(255,255,255,.9);
+    padding: 6rem 3rem;
+    height: 70vh;
+    width: auto;
+}
+
+p {
+    text-align: justify;
+    font-family: Calibri, sans-serif;
+    color: blue;
+    font-size: 1.5rem;
+}
